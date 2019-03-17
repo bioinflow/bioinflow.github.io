@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
 <<<<<<< HEAD
-  name             : "Bioinflow group"
+  name             : "Bioinflow-group"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Trying to make bioinformatics accessible to everyone"
   location         : "Everywhere"
@@ -126,7 +126,7 @@ author:
   links:
     - label: "bioinflow@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:bioinflow@gmail.com
+        url: mailto:bioinflow@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
