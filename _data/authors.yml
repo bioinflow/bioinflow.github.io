@@ -8,7 +8,7 @@ Clelia Cortile:
 
 Katarina Elez:
   name        : "Katarina Elez"
-  bio         : I am a "biricchina"
+  bio         : 
   avatar      : #"/assets/images/bio-photo-2.jpg"
   email       : katarina.elez1@gmail.com
 
@@ -17,3 +17,5 @@ Marco Anteghini:
   bio         : 
   avatar      : #"/assets/images/bio-photo.jpg"
   email       : marcoanteghini@yahoo.it
+  location    : Aachen, Germany
+  instagram   : https://www.instagram.com/marcoanteghini/
