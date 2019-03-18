@@ -152,7 +152,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:bioinflow@gmail.com
 
 # Reading Files
 include:
