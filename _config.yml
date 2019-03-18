@@ -16,15 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bioinflow"
+title                    : "BioINflow"
 title_separator          : "-"
-<<<<<<< HEAD
-name                     : "Bioinflow group"
-description              : "Trying to make bioinformatics accesible to eveyone"
-=======
 name                     : "BioINflow"
-description              : "Blog on bioinformatics"
->>>>>>> 273d79e1aa4bbc1f39d92b30612aa3b9b0488b21
+description              : "Trying to make bioinformatics accesible to everyone"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,17 +106,10 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name             : "Bioinflow group"
+  name             : "BioINflow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Trying to make bioinformatics accessible to everyone"
   location         : "Everywhere"
-=======
-  name             : "BioINflow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an amazing person."
-  location         : #"Somewhere"
->>>>>>> 273d79e1aa4bbc1f39d92b30612aa3b9b0488b21
   email            : bioinflow@gmail.com
   links:
     - label: "bioinflow@gmail.com"
