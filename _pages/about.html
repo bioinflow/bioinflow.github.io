@@ -80,21 +80,23 @@ classes: wide
 			  </p>
 			{% endif %}
 		  </div>
-          <ul class="author__urls social-icons">
-            {% if author.location %}
-			  <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-			    <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
-			  </li>
-			{% endif %}
-			{% if author.email %}
-			  <li>
-		        <a href="mailto:{{ author.email }}">
-			      <meta itemprop="email" content="{{ author.email }}" />
-				  <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
-			    </a>
-			  </li>
-			{% endif %}
-          </ul>
+          <div class="author__urls-wrapper">
+		    <ul class="author__urls social-icons">
+		      {% if author.location %}
+				<li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+				  <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+				</li>
+			  {% endif %}
+			  {% if author.email %}
+			    <li>
+				  <a href="mailto:{{ author.email }}">
+				    <meta itemprop="email" content="{{ author.email }}" />
+					<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+				  </a>
+				</li>
+			  {% endif %}
+		    </ul>
+          </div>
 		</div>
       </div>
     </div>
