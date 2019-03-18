@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "BioINflow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Trying to make bioinformatics accessible to everyone"
-  location         : "Everywhere"
+  bio              : #"I am an amazing person."
+  location         : #"Somewhere"
   email            : bioinflow@gmail.com
   links:
-    - label: "bioinflow@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: mailto:bioinflow@gmail.com
+      # url: mailto:bioinflow@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
