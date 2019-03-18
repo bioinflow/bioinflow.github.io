@@ -7,7 +7,7 @@ Marco Anteghini:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: #
+      url: "mailto:"
 
 Clelia Cortile:
   name        : "Clelia Cortile"
@@ -16,7 +16,7 @@ Clelia Cortile:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: #
+      url: "mailto:"
 
 Katarina Elez:
   name        : "Katarina Elez"
