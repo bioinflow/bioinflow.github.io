@@ -4,23 +4,24 @@ Clelia Cortile:
   name        : "Clelia Cortile"
   bio         : 
   avatar      : #"/assets/images/bio-photo.jpg"
+  location    : Barcelona, Spain
   email       :
 
 Katarina Elez:
   name        : "Katarina Elez"
-  bio         : 
+  bio         : "Tutorial Guru"
   avatar      : #"/assets/images/bio-photo-2.jpg"
+  location    : "Stockholm, Sweden"
   email       : katarina.elez1@gmail.com
   github      : katarinaelez
   linkedin    : katarinaelez
-  location    : Stockholm, Sweden 
 
 Marco Anteghini:
   name        : "Marco Anteghini"
-  bio         : "Hi everyone!. I am Marco, (recently) 25 years old"
+  bio         : "Master of Podcasts"
   avatar      : #"/assets/images/bio-photo.jpg"
-  email       : marcoanteghini@yahoo.it
   location    : Aachen, Germany
-  github     : MarcoAnteghini
+  email       : marcoanteghini@yahoo.it
+  github      : MarcoAnteghini
   linkedin    : marco-anteghini-9a6020141/
   instagram   : marcoanteghini/
