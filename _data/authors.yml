@@ -2,10 +2,12 @@
 
 Clelia Cortile:
   name        : "Clelia Cortile"
-  bio         : 
+  bio         : "Idea Mastermind"
   avatar      : #"/assets/images/bio-photo.jpg"
   location    : Barcelona, Spain
-  email       :
+  email       : ccortile@gmail.com
+  github      : cleliacort
+  linkedin    : Clelia Cortile
 
 Katarina Elez:
   name        : "Katarina Elez"
