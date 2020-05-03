@@ -1,28 +1,28 @@
 # /_data/authors.yml
 
 Clelia Cortile:
-  name        : "Clelia Cortile"
-  bio         : "Idea Mastermind"
+  name        : Clelia Cortile
+  bio         : Idea Mastermind
   avatar      : #"/assets/images/bio-photo.jpg"
-  location    : Barcelona, Spain
+  location    : Bologna, Italy
   email       : ccortile@gmail.com
   github      : cleliacort
   linkedin    : Clelia Cortile
 
 Katarina Elez:
-  name        : "Katarina Elez"
-  bio         : "Tutorial Guru"
+  name        : Katarina Elez
+  bio         : Tutorial Guru
   avatar      : #"/assets/images/bio-photo-2.jpg"
-  location    : "Stockholm, Sweden"
+  location    : Berlin, Germany
   email       : katarina.elez1@gmail.com
   github      : katarinaelez
   linkedin    : katarinaelez
 
 Marco Anteghini:
-  name        : "Marco Anteghini"
-  bio         : "Master of Podcasts"
+  name        : Marco Anteghini
+  bio         : Master of Podcasts
   avatar      : #"/assets/images/bio-photo.jpg"
-  location    : Aachen, Germany
+  location    : Berlin, Germany
   email       : marcoanteghini@yahoo.it
   github      : MarcoAnteghini
   linkedin    : marco-anteghini-9a6020141/
