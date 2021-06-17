@@ -1,0 +1,1 @@
+Training school under preparation
